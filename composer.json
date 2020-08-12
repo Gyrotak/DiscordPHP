@@ -20,7 +20,7 @@
     "TrafficCophp/ByteBuffer": "^0.3",
     "monolog/monolog": "^1.19",
     "wyrihaximus/react-guzzle-psr7": "2.1.*",
-    "react/partial": "^2.0"
+    "react/partial": "^3.0"
   },
   "require-dev": {
     "symfony/var-dumper": "^2.7|^3.0"
