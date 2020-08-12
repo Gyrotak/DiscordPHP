@@ -1,15 +1,11 @@
 {
-  "name": "team-reflex/discord-php",
+  "name": "Gyrotak/discord-php",
   "description": "An unofficial API to interact with the voice and text service Discord.",
   "license": "MIT",
   "authors": [
     {
-      "name": "David Cole",
-      "email": "david@team-reflex.com"
-    },
-    {
-      "name": "Aaron Scherer",
-      "email": "aequasi@gmail.com"
+      "name": "William Lejau;t",
+      "email": "lejaul_w@etna-alternance.net"
     }
   ],
   "require": {
